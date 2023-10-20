@@ -1,0 +1,2736 @@
+2023.10.19 12:00:32 INFO  Started: Metals version 1.1.0 in folders '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid' for client Visual Studio Code 1.83.1.
+2023.10.19 12:00:32 WARN  Build server is not auto-connectable.
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/good/FileSaver.java
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/good/File.java
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/bad/File.java
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/good/FileLoader.java
+2023.10.19 12:00:32 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/good/FilePrinter.java
+2023.10.19 12:00:36 INFO  no build target found for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java. Using presentation compiler with project's scala-library version: 3.3.1
+oct 19, 2023 12:00:37 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-19/r_compiler-error_12-00-37-726.md
+oct 19, 2023 4:22:37 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-19/r_compiler-error_16-22-37-304.md
+oct 19, 2023 4:22:56 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-19/r_compiler-error_16-22-56-831.md
+oct 19, 2023 4:23:23 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-19/r_compiler-error_16-23-23-823.md
+oct 20, 2023 8:13:33 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.20 08:32:17 INFO  Shutting down server
+2023.10.20 08:32:17 INFO  shutting down Metals
+2023.10.20 08:32:17 INFO  Exiting server
+2023.10.20 13:56:28 INFO  Started: Metals version 1.1.0 in folders '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid' for client Visual Studio Code 1.83.1.
+2023.10.20 13:56:29 WARN  Build server is not auto-connectable.
+2023.10.20 13:56:29 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 13:56:34 INFO  no build target found for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java. Using presentation compiler with project's scala-library version: 3.3.1
+oct 20, 2023 1:56:36 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-56-36-256.md
+oct 20, 2023 1:56:42 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-56-42-714.md
+oct 20, 2023 1:56:43 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-56-43-262.md
+oct 20, 2023 1:56:47 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-56-47-319.md
+oct 20, 2023 1:56:53 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-56-53-207.md
+oct 20, 2023 1:57:00 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.20 13:57:06 INFO  Shutting down server
+2023.10.20 13:57:06 INFO  shutting down Metals
+2023.10.20 13:57:06 INFO  Exiting server
+2023.10.20 13:57:12 INFO  Started: Metals version 1.1.0 in folders '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid' for client Visual Studio Code 1.83.1.
+2023.10.20 13:57:13 WARN  Build server is not auto-connectable.
+2023.10.20 13:57:13 WARN  no build target for: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 13:57:16 INFO  no build target found for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java. Using presentation compiler with project's scala-library version: 3.3.1
+oct 20, 2023 1:57:18 P. M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/.reports/metals-full/2023-10-20/r_compiler-error_13-57-18-461.md
+oct 20, 2023 1:57:19 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+oct 20, 2023 1:57:28 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.10.20 13:57:48 INFO  running '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/gradlew --stacktrace --console=plain --init-script /var/folders/sc/h7wl_6015gz8tvfq77smwkms5k0zkd/T/metals1215987350885930662/init-script.gradle bloopInstall'
+2023.10.20 13:57:49 INFO  
+2023.10.20 13:57:49 INFO  Welcome to Gradle 8.3!
+2023.10.20 13:57:49 INFO  
+2023.10.20 13:57:49 INFO  Here are the highlights of this release:
+2023.10.20 13:57:49 INFO   - Faster Java compilation
+2023.10.20 13:57:49 INFO   - Reduced memory usage
+2023.10.20 13:57:49 INFO   - Support for running on Java 20
+2023.10.20 13:57:49 INFO  
+2023.10.20 13:57:49 INFO  For more details see https://docs.gradle.org/8.3/release-notes.html
+2023.10.20 13:57:49 INFO  
+2023.10.20 13:57:53 INFO  > Task :configureBloopInstall
+2023.10.20 13:57:53 INFO  > Task :bloopInstall
+2023.10.20 13:57:53 INFO  
+2023.10.20 13:57:53 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+2023.10.20 13:57:53 INFO  
+2023.10.20 13:57:53 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2023.10.20 13:57:53 INFO  
+2023.10.20 13:57:53 INFO  For more on this, please refer to https://docs.gradle.org/8.3/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2023.10.20 13:57:53 INFO  
+2023.10.20 13:57:53 INFO  BUILD SUCCESSFUL in 5s
+2023.10.20 13:57:53 INFO  2 actionable tasks: 2 executed
+2023.10.20 13:57:53 INFO  time: ran 'gradle bloopInstall' in 5.75s
+2023.10.20 13:57:53 INFO  Attempting to connect to the build server...
+2023.10.20 13:57:53 INFO  Setting up current java home /Users/carlgour/.sdkman/candidates/java/current in /Users/carlgour/.bloop/bloop.json
+2023.10.20 13:58:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/.metals/bsp.trace.json or /Users/carlgour/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.10.20 13:58:05 INFO  time: Connected to build server in 11s
+2023.10.20 13:58:05 INFO  Connected to Build server: Bloop v1.5.11
+2023.10.20 13:58:07 INFO  time: indexed workspace in 1.54s
+2023.10.20 13:58:07 INFO  compiling solid (6 java sources)
+2023.10.20 13:58:07 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 13:58:08 INFO  compiling solid-test (1 java source)
+2023.10.20 13:58:08 INFO  time: compiled solid in 1.13s
+2023.10.20 13:58:08 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 13:58:08 INFO  time: compiled solid-test in 0.62s
+2023.10.20 13:58:36 INFO  compiling solid (1 java source)
+2023.10.20 13:58:36 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 13:58:36 INFO  time: compiled solid in 0.62s
+2023.10.20 13:58:42 INFO  compiling solid (1 java source)
+2023.10.20 13:58:42 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 13:58:42 INFO  time: compiled solid in 0.64s
+2023.10.20 14:00:00 INFO  compiling solid (1 java source)
+2023.10.20 14:00:00 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:00:00 INFO  time: compiled solid in 0.59s
+2023.10.20 14:00:00 INFO  compiling solid (1 java source)
+2023.10.20 14:00:01 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:00:01 INFO  time: compiled solid in 0.57s
+2023.10.20 14:01:55 INFO  compiling solid (6 java sources)
+2023.10.20 14:01:55 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:01:55 INFO  time: compiled solid in 0.8s
+2023.10.20 14:02:01 INFO  compiling solid (2 java sources)
+2023.10.20 14:02:01 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:02:01 INFO  time: compiled solid in 0.7s
+2023.10.20 14:02:04 INFO  compiling solid (1 java source)
+2023.10.20 14:02:04 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:02:04 INFO  time: compiled solid in 0.54s
+2023.10.20 14:02:04 INFO  compiling solid (6 java sources)
+oct 20, 2023 2:02:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:02:05 WARN  javac exited with exit code 1
+2023.10.20 14:02:05 INFO  time: compiled solid in 0.6s
+2023.10.20 14:04:50 INFO  compiling solid (2 java sources)
+2023.10.20 14:04:50 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:04:50 INFO  time: compiled solid in 0.8s
+2023.10.20 14:04:50 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:04:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:04:52 WARN  javac exited with exit code 1
+2023.10.20 14:04:52 INFO  time: compiled solid in 0.58s
+2023.10.20 14:04:52 INFO  compiling solid (2 java sources)
+2023.10.20 14:04:52 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:04:52 INFO  time: compiled solid in 0.55s
+2023.10.20 14:04:52 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:04:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:04:53 WARN  javac exited with exit code 1
+2023.10.20 14:04:53 INFO  time: compiled solid in 0.6s
+2023.10.20 14:05:27 INFO  compiling solid (2 java sources)
+oct 20, 2023 2:05:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 4,
+            "character": 18
+          },
+          "end": {
+            "line": 4,
+            "character": 18
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: invalid method declaration; return type required",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:05:27 WARN  javac exited with exit code 1
+2023.10.20 14:05:27 INFO  time: compiled solid in 0.34s
+2023.10.20 14:05:35 INFO  compiling solid (2 java sources)
+2023.10.20 14:05:35 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:05:35 INFO  time: compiled solid in 0.56s
+2023.10.20 14:05:35 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:05:36 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:05:36 WARN  javac exited with exit code 1
+2023.10.20 14:05:36 INFO  time: compiled solid in 0.57s
+2023.10.20 14:05:53 INFO  compiling solid (2 java sources)
+oct 20, 2023 2:05:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 50
+          },
+          "end": {
+            "line": 3,
+            "character": 50
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot find symbol",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:05:53 WARN  javac exited with exit code 1
+2023.10.20 14:05:53 INFO  time: compiled solid in 0.58s
+2023.10.20 14:05:53 INFO  compiling solid (2 java sources)
+oct 20, 2023 2:05:54 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 50
+          },
+          "end": {
+            "line": 3,
+            "character": 50
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot find symbol",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:05:54 WARN  javac exited with exit code 1
+2023.10.20 14:05:54 INFO  time: compiled solid in 0.53s
+2023.10.20 14:06:25 INFO  compiling solid (2 java sources)
+oct 20, 2023 2:06:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 50
+          },
+          "end": {
+            "line": 3,
+            "character": 50
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot find symbol",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:06:25 WARN  javac exited with exit code 1
+2023.10.20 14:06:25 INFO  time: compiled solid in 0.61s
+2023.10.20 14:06:42 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:10 INFO  compiling solid (3 java sources)
+oct 20, 2023 2:07:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 50
+          },
+          "end": {
+            "line": 3,
+            "character": 50
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot find symbol",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:10 WARN  javac exited with exit code 1
+2023.10.20 14:07:10 INFO  time: compiled solid in 0.58s
+2023.10.20 14:07:24 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:24 WARN  javac exited with exit code 1
+2023.10.20 14:07:24 INFO  time: compiled solid in 0.65s
+2023.10.20 14:07:24 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:25 WARN  javac exited with exit code 1
+2023.10.20 14:07:25 INFO  time: compiled solid in 0.68s
+2023.10.20 14:07:25 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:25 WARN  javac exited with exit code 1
+2023.10.20 14:07:25 INFO  time: compiled solid in 0.64s
+2023.10.20 14:07:28 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:28 WARN  javac exited with exit code 1
+2023.10.20 14:07:28 INFO  time: compiled solid in 0.76s
+2023.10.20 14:07:28 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:29 WARN  javac exited with exit code 1
+2023.10.20 14:07:29 INFO  time: compiled solid in 0.61s
+oct 20, 2023 2:07:39 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 518
+2023.10.20 14:07:47 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:07:48 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:07:49 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:07:50 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:07:50 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:07:53 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:07:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:07:53 WARN  javac exited with exit code 1
+2023.10.20 14:07:53 INFO  time: compiled solid in 0.71s
+2023.10.20 14:07:54 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:55 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:55 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:55 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:56 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:56 WARN  Using indexes to guess the definition of File
+2023.10.20 14:07:58 WARN  Using indexes to guess the definition of File
+2023.10.20 14:08:35 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:08:35 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:08:35 WARN  javac exited with exit code 1
+2023.10.20 14:08:35 INFO  time: compiled solid in 0.69s
+2023.10.20 14:08:35 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:08:36 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:08:36 WARN  javac exited with exit code 1
+2023.10.20 14:08:36 INFO  time: compiled solid in 0.62s
+2023.10.20 14:09:02 WARN  Using indexes to guess the definition of File
+2023.10.20 14:09:03 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:03 WARN  javac exited with exit code 1
+2023.10.20 14:09:03 INFO  time: compiled solid in 0.64s
+2023.10.20 14:09:03 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:04 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:04 WARN  javac exited with exit code 1
+2023.10.20 14:09:04 INFO  time: compiled solid in 0.59s
+2023.10.20 14:09:04 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:05 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:04 WARN  javac exited with exit code 1
+2023.10.20 14:09:04 INFO  time: compiled solid in 0.59s
+2023.10.20 14:09:05 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:05 WARN  javac exited with exit code 1
+2023.10.20 14:09:05 INFO  time: compiled solid in 0.56s
+2023.10.20 14:09:05 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:07 WARN  javac exited with exit code 1
+2023.10.20 14:09:07 INFO  time: compiled solid in 0.58s
+2023.10.20 14:09:07 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 6,
+            "character": 46
+          },
+          "end": {
+            "line": 6,
+            "character": 46
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:07 WARN  javac exited with exit code 1
+2023.10.20 14:09:07 INFO  time: compiled solid in 0.6s
+2023.10.20 14:09:12 INFO  compiling solid (7 java sources)
+2023.10.20 14:09:13 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+oct 20, 2023 2:09:13 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:12 WARN  javac exited with exit code 1
+2023.10.20 14:09:12 INFO  time: compiled solid in 0.67s
+2023.10.20 14:09:13 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:14 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:14 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:13 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:09:14 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:14 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:14 WARN  Using indexes to guess the definition of MainSRP
+2023.10.20 14:09:15 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:16 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:16 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:16 WARN  Using indexes to guess the definition of MainSRP
+2023.10.20 14:09:19 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:19 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:19 WARN  javac exited with exit code 1
+2023.10.20 14:09:19 INFO  time: compiled solid in 0.6s
+2023.10.20 14:09:20 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:25 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:26 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:26 WARN  javac exited with exit code 1
+2023.10.20 14:09:26 INFO  time: compiled solid in 0.66s
+2023.10.20 14:09:27 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:27 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:27 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:27 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:27 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:28 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:28 WARN  javac exited with exit code 1
+2023.10.20 14:09:28 INFO  time: compiled solid in 0.56s
+2023.10.20 14:09:28 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Using indexes to guess the definition of MainSRP
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:09:31 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:30 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:31 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:09:38 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:39 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:38 WARN  javac exited with exit code 1
+2023.10.20 14:09:38 INFO  time: compiled solid in 0.6s
+2023.10.20 14:09:38 INFO  compiling solid (7 java sources)
+2023.10.20 14:09:39 ERROR code navigation does not work for the file '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java' because the build target solid is being compiled. Wait until compilation is finished and try again.
+2023.10.20 14:09:39 ERROR code navigation does not work for the file '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java' because the build target solid is being compiled. Wait until compilation is finished and try again.
+2023.10.20 14:09:39 ERROR code navigation does not work for the file '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java' because the build target solid is being compiled. Wait until compilation is finished and try again.
+2023.10.20 14:09:39 ERROR code navigation does not work for the file '/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/MainSRP.java' because the build target solid is being compiled. Wait until compilation is finished and try again.
+oct 20, 2023 2:09:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:40 WARN  javac exited with exit code 1
+2023.10.20 14:09:40 INFO  time: compiled solid in 0.64s
+2023.10.20 14:09:40 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:40 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:40 WARN  javac exited with exit code 1
+2023.10.20 14:09:40 INFO  time: compiled solid in 0.63s
+2023.10.20 14:09:40 INFO  compiling solid (7 java sources)
+2023.10.20 14:09:41 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+oct 20, 2023 2:09:41 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:41 WARN  javac exited with exit code 1
+2023.10.20 14:09:41 INFO  time: compiled solid in 0.63s
+2023.10.20 14:09:41 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:41 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:42 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:41 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:43 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:43 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:43 WARN  Using indexes to guess the definition of MainSRP
+2023.10.20 14:09:44 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:46 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:47 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:46 WARN  javac exited with exit code 1
+2023.10.20 14:09:46 INFO  time: compiled solid in 0.65s
+2023.10.20 14:09:47 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:49 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:53 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:09:53 INFO  compiling solid (7 java sources)
+oct 20, 2023 2:09:53 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 3,
+            "character": 22
+          },
+          "end": {
+            "line": 3,
+            "character": 22
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: cannot access File",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/FilePrinter.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:09:53 WARN  javac exited with exit code 1
+2023.10.20 14:09:53 INFO  time: compiled solid in 0.6s
+2023.10.20 14:09:54 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:10:51 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:10:51 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/SolidApplication.java
+2023.10.20 14:10:51 WARN  Using indexes to guess the definition of runSample
+2023.10.20 14:10:53 INFO  compiling solid (7 java sources)
+2023.10.20 14:10:53 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:10:53 INFO  time: compiled solid in 0.8s
+oct 20, 2023 2:27:28 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 957
+2023.10.20 14:27:37 INFO  compiling solid (1 java source)
+2023.10.20 14:27:37 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:27:37 INFO  time: compiled solid in 0.61s
+2023.10.20 14:29:07 INFO  compiling solid (1 java source)
+2023.10.20 14:29:07 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:29:07 INFO  time: compiled solid in 0.68s
+2023.10.20 14:29:36 INFO  compiling solid (1 java source)
+2023.10.20 14:29:36 WARN  Could not load snapshot text for /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/File.java
+2023.10.20 14:29:36 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:29:36 INFO  time: compiled solid in 0.59s
+2023.10.20 14:29:52 INFO  compiling solid (1 java source)
+oct 20, 2023 2:29:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "build/publishDiagnostics",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:%5Boptions%5D%20system%20modules%20path%20not%20set%20in%20conjunction%20with%20-source%2020%0A/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/File.java"
+    },
+    "buildTarget": {
+      "uri": "file:/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/?id\u003dsolid"
+    },
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 5,
+            "character": 1
+          },
+          "end": {
+            "line": 5,
+            "character": 1
+          }
+        },
+        "severity": 1,
+        "source": "bloop",
+        "message": " error: class, interface, enum, or record expected",
+        "data": {
+          "actions": []
+        }
+      }
+    ],
+    "reset": true
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:118)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 12 more
+Caused by: java.nio.file.NoSuchFileException: /Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/warning:[options] system modules path not set in conjunction with -source 20
+/Users/carlgour/Code/Personal/MyProjects/Java/DesignPrinciples/solid/src/main/java/dev/cgomezu/designprinciples/solid/srp/good/File.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3268)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:383)
+	at scala.meta.internal.metals.Diagnostics.onPublishDiagnostics(Diagnostics.scala:167)
+	at scala.meta.internal.metals.Diagnostics.onBuildPublishDiagnostics(Diagnostics.scala:147)
+	at scala.meta.internal.metals.clients.language.ForwardingMetalsBuildClient.onBuildPublishDiagnostics(ForwardingMetalsBuildClient.scala:112)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	... 14 more
+
+2023.10.20 14:29:52 WARN  javac exited with exit code 1
+2023.10.20 14:29:52 INFO  time: compiled solid in 0.39s
+2023.10.20 14:29:54 INFO  compiling solid (1 java source)
+2023.10.20 14:29:54 WARN  Unexpected javac output: warning: [options] system modules path not set in conjunction with -source 20
+1 warning.
+2023.10.20 14:29:54 INFO  time: compiled solid in 0.57s
+2023.10.20 14:30:23 WARN  Using indexes to guess the definition of File
+2023.10.20 14:30:23 WARN  Using indexes to guess the definition of File
+2023.10.20 14:30:23 WARN  Using indexes to guess the definition of File
